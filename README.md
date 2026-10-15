@@ -1,0 +1,2 @@
+# Acme-IaC-Lab-Automating-Infrastructure-with-Terraform-and-Ansible
+Homelab project that builds a small, scalable web tier entirely from code. Terraform provisions identical Ubuntu web servers in VirtualBox, Ansible turns them into hardened nginx hosts, and a single PowerShell script ties provisioning, configuration, and HTTP validation together so the whole environment can be rebuilt from nothing with one command.
