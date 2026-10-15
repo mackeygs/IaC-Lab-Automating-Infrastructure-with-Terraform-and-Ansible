@@ -1,4 +1,4 @@
-# Acme IaC Lab: Automating Infrastructure with Terraform and Ansible
+# IaC Lab: Automating Infrastructure with Terraform and Ansible
 
 ![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.3-7B42BC?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-agentless-EE0000?logo=ansible&logoColor=white)
