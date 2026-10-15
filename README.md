@@ -298,4 +298,4 @@ With those safeguards in place, the combination of Terraform and Ansible offers 
 
 ## Author
 
-**Geoffrey Mackey**, Cybersecurity and Information Technology student at the University of Cincinnati.
+**Geoffrey Mackey**, Cybersecurity Professional & Student at the University of Cincinnati.
